@@ -1,4 +1,4 @@
 <svelte:head>
-	<title>Sapper / Firebase project template</title>
+	<title>Sapper / Sass project template</title>
 </svelte:head>
 
