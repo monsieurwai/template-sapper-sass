@@ -1,9 +1,6 @@
+@import "./normalize.scss";
 @import "./theme.scss";
-* {
- box-sizing: border-box;
-}
-html, body {
- margin: 0;
- padding: 0;
- background-color: red;
+
+body{
+    background-color: $main-color;
 }

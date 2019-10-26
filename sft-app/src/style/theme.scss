@@ -1,2 +1,10 @@
-$main-color: blue;
-$site-width: 1200px;
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700|Ubuntu:300,400,700&display=swap');
+// font-family: 'Roboto', sans-serif;
+// font-family: 'Ubuntu', sans-serif;
+
+//fonts
+$main-font: 'Roboto', sans-serif;
+$title-font: 'Ubuntu', sans-serif;
+
+//colors
+$main-color: #fff;
